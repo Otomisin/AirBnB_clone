@@ -12,5 +12,5 @@ project
 
 
 ## Authors
-* [Oluwatosin Orenaike][def] (https://github.com/Otomisin)
-* [Ngozi Onwuka][def]
+* [Oluwatosin Orenaike](https://github.com/Otomisin)
+* [Ngozi Onwuka](https://github.com/OnwukaNgozi)
